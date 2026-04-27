@@ -1,1 +1,1 @@
-# -AI-powered-diagnostic-support-system
+# AI-powered-diagnostic-support-system
