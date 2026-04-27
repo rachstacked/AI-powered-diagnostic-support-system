@@ -34,7 +34,7 @@ This ensured a balance between **structured execution** and **flexibility for im
 ##  Tools Used
 
 * Jira → Sprint planning, task tracking, Kanban board
-* Microsoft Excel → KPI dashboard, Gantt chart, risk register
+* Google sheets → KPI dashboard, Gantt chart, risk register
 * Canva / PowerPoint → Process mapping and visual artifacts
 * Markdown (GitHub) → Documentation and case study presentation
 
@@ -73,8 +73,8 @@ As the **Project Manager**, I was responsible for:
 ### 1. Stakeholder Resistance
 
 **Challenge:** Technicians were hesitant due to fear of AI replacing their roles
-**Solution:**
 
+**Solution:**
 * Involved them early in pilot testing
 * Positioned AI as a support tool
 * Incorporated their feedback
@@ -84,8 +84,8 @@ As the **Project Manager**, I was responsible for:
 ### 2. Integration Delays
 
 **Challenge:** API compatibility issues slowed progress
-**Solution:**
 
+**Solution:**
 * Broke tasks into smaller milestones
 * Increased coordination with IT and vendor
 
@@ -94,8 +94,8 @@ As the **Project Manager**, I was responsible for:
 ### 3. AI Accuracy Concerns
 
 **Challenge:** Initial inconsistencies in AI outputs
-**Solution:**
 
+**Solution:**
 * Introduced validation layer with pathologists
 * Conducted iterative testing and refinement
 
