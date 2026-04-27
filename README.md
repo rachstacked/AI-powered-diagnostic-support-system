@@ -116,7 +116,7 @@ As the **Project Manager**, I was responsible for:
 * Early stakeholder involvement drives adoption
 * AI systems require human validation for reliability
 * Data-driven monitoring improves decision-making and outcomes
-Check out [Lessons Learned]()
+Check out [Lessons Learned](https://github.com/rachstacked/AI-powered-diagnostic-support-system/blob/main/Lesson%20Learned.md)
 ---
 
 ##  Final Note
